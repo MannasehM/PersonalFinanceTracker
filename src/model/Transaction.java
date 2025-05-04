@@ -1,3 +1,8 @@
+/**
+ * Transaction class. 
+ * @author Mannaseh Merakanapalli
+ */
+
 package model;
 
 import java.time.LocalDate;
